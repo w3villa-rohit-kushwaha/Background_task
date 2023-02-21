@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+.backgroundd{
+    background-size: cover;
+}
+.backgroundd{
+    background-image: url(img/pexels-lina-kivaka-4371669.jpg);
+    width: 100%;
+    height: 100vh;
+}
+.backgrounddd{
+    background-image: url(img/pexels-eugenia-remark-15283480.jpg);
+    width: 100%;
+    height: 100vh;
+}
+.backgroundddd{
+    background-image: url(img/pexels-melanie-7532110.jpg);
+    width: 100%;
+    height: 100vh;
+}
